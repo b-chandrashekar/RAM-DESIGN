@@ -36,3 +36,4 @@ Microprocessor and Microcontroller Design: For temporary data storage and instru
 
 #output
 
+![Image](https://github.com/user-attachments/assets/39a7f1f4-9859-4ae7-b218-b2992f551fba)
